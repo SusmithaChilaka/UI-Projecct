@@ -1,2 +1,2 @@
-# UI-Projecct
+# UI-Project
 Practice codes for training
